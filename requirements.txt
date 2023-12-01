@@ -2,3 +2,4 @@ pandas
 tweet-preprocessor
 contractions
 nltk
+scikitlearn
